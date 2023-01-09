@@ -35,6 +35,8 @@ To evaluate my model on Kaggle, enter the following website, sign in Kaggle, and
 https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/leaderboard
 
 After you join the competition, you should see "Late Submission" bottom. Click it and submit 'output.csv' to it.
+![](https://i.imgur.com/QchSVOB.jpg)
+![](https://i.imgur.com/gFZc2Ph.jpg)
 
 
 
