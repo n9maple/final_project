@@ -16,7 +16,7 @@ First, create a folder in your Google drive and put train.csv and test.csv in it
 ![](https://i.imgur.com/zCgEdle.jpg)
 ![](https://i.imgur.com/qcql2Qm.jpg)
 
-Second, please modify the path name in 'both' 109550095_Final_inference.ipynb and 109550095_Final_train.ipynb. The path string is in the second block counted from the top, and you only need to modify where red arrow points to the name of your folder (In this example, 'ML_final')
+Second, please modify the path name in "both" 109550095_Final_inference.ipynb and 109550095_Final_train.ipynb. The path string is in the second block counted from the top, and you only need to modify where red arrow points to the name of your folder (In this example, 'ML_final')
 ![](https://i.imgur.com/Ddezz5n.jpg)
 
 ## Training
@@ -43,12 +43,12 @@ After you join the competition, you should see "Late Submission" bottom. Click i
 
 ## Pre-trained Models
 
-The pre-trained model can be accessed via link:https://drive.google.com/drive/folders/1CR-N9encIodLJ7SmQiexBP9y4-LZohhr?usp=sharing. Notice that this model is saved with 'joblib' package of python, so it's not guarantee the model can be successfully load with other package. In addition, with the pre-trained model, the trainning step can be skiped, but the trainning data (train.csv) is still needee because it will be used in data preprocessing.
+The pre-trained model named "final_model" can be accessed via link:https://drive.google.com/drive/folders/1CR-N9encIodLJ7SmQiexBP9y4-LZohhr?usp=sharing. Notice that this model is saved with 'joblib' package of python, so it's not guarantee the model can be successfully load with other package. In addition, with the pre-trained model, the trainning step can be skiped, but the trainning data (train.csv) is still needee because it will be used in data preprocessing.
 ![](https://i.imgur.com/g4m5wnp.jpg)
 
 ## Results
 
-If the submission succeed, the score should be exactly the same as the below:
+If the submission succeeds, the score should be exactly the same as the below:
 ![](https://i.imgur.com/EyC8gZs.jpg)
 
 
