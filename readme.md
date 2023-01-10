@@ -1,6 +1,6 @@
 # Model Reproducing steps
 
-This project are tested on Google colab, and it is strongly recommend to use Google colab as the work environment since the following steps are based on it. These steps may need modification to successfully run the code on the other environments.
+This project are tested on Google colab, and it is strongly recommened to use Google colab as the work environment since the following steps are based on it. These steps may need modification to successfully run the code on the other environments.
 
 ## Requirements
 
@@ -43,7 +43,7 @@ After you join the competition, you should see "Late Submission" bottom. Click i
 
 ## Pre-trained Models
 
-The pre-trained model can be accessed via link:https://drive.google.com/drive/folders/1CR-N9encIodLJ7SmQiexBP9y4-LZohhr?usp=sharing. Notice that this model is saved with 'joblib' package of python, so it's not guarantee the model can be successfully load with other package.
+The pre-trained model can be accessed via link:https://drive.google.com/drive/folders/1CR-N9encIodLJ7SmQiexBP9y4-LZohhr?usp=sharing. Notice that this model is saved with 'joblib' package of python, so it's not guarantee the model can be successfully load with other package. In addition, with the pre-trained model, the trainning step can be skiped, but the trainning data (train.csv) is still needee because it will be used in data preprocessing.
 ![](https://i.imgur.com/g4m5wnp.jpg)
 
 ## Results
