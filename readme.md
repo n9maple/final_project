@@ -4,7 +4,7 @@ This project are tested on Google colab, and it is strongly recommened to use Go
 
 ## Requirements
 
-The requirements.txt is attached on this project. In Google colab, you can install certain version package by runnin the code:
+The requirements.txt is attached on this project. In Google colab, you can install certain version package by running the code:
 ```ddd
 !pip install package==x.x.x
 ```
